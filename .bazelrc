@@ -1,0 +1,1 @@
+build --local_extra_resources=foo=1
